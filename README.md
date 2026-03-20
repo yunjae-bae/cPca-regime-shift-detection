@@ -16,3 +16,8 @@ Six macroeconomic series from FRED (Federal Reserve Economic Data).
 ## Data source
 
 FRED (Federal Reserve Economic Data) — https://fred.stlouisfed.org
+
+## Installation
+```bash
+pip install -r requirements.txt
+```
