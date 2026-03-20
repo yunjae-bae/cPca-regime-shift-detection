@@ -13,3 +13,6 @@ Six macroeconomic series from FRED (Federal Reserve Economic Data).
 - Employment and prices: UNRATE, CPIAUCSL
 - Financial markets: DGS10
 
+## Data source
+
+FRED (Federal Reserve Economic Data) — https://fred.stlouisfed.org
