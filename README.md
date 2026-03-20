@@ -13,9 +13,19 @@ Six macroeconomic series from FRED (Federal Reserve Economic Data).
 - Employment and prices: UNRATE, CPIAUCSL
 - Financial markets: DGS10
 
-## Data source
+## Data
 
-FRED (Federal Reserve Economic Data) — https://fred.stlouisfed.org
+Use six macroeconomic CSV series downloaded from FRED.
+
+Find the following six series on [FRED](https://fred.stlouisfed.org), download each CSV,
+and place them beside the notebook.
+
+`INDPRO`, `CPIAUCSL`, `RSAFS`, `PCE`, `UNRATE`, `DGS10`
+
+## Installation
+```bash
+pip install -r requirements.txt
+```
 
 ## Installation
 ```bash
